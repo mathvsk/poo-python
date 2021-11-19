@@ -1,2 +1,4 @@
 # poo-python
- Exercicios python focados em paradigma de orientação a objetos
+ Exercícios para treinar o paradigma de orientação a objetos. 
+ 
+ Fonte: https://wiki.python.org.br/ExerciciosClasses
